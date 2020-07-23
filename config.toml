@@ -13,9 +13,6 @@ build_search_index = true
 
 theme = "anpu"
 
-[extra]
-# Put all your custom variables here
-
 title = "ほにゃらら日記"
 
 description = "説明文のてすと"
@@ -26,6 +23,9 @@ taxonomies = [
     {name = "tags", rss = true},
     {name = "categories", rss = true},
 ]
+
+[extra]
+# Put all your custom variables here
 
 anpu_date_format = "%e %B %Y"
 
