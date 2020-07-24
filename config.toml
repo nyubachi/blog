@@ -11,27 +11,22 @@ highlight_code = true
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = true
 
-theme = "anpu"
+theme = "zola-pickles"
 
 title = "ほにゃらら日記"
 
-description = "説明文のてすと"
-
-generate_feed = true
-
-taxonomies = [
-    {name = "tags", rss = true},
-    {name = "categories", rss = true},
-]
-
 [extra]
-# Put all your custom variables here
+# A line to display underneath the main title
+subtitle = "Example subtitle"
 
-anpu_date_format = "%e %B %Y"
+# Text to display in the footer of the page
+copyright = "Copyright authors year"
 
-anpu_menu_links = [
-    { url = "$BASE_URL/about/", name = "About" },
-    { url = "$BASE_URL/tags/", name = "Tags" },
-    { url = "https://pharmatoolz.me", name = "pharmaToolz" },
-    { url = "https://twitter.com/nyubachi", name = "Twitter" }
-]
+# Your Google Analytics ID
+analytics = ""
+
+# See below
+katex_enable = false
+
+# See below
+instantpage_enable = false
