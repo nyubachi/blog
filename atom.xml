@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+	<title>ほにゃらら日記</title>
+	<subtitle>ここに説明文</subtitle>
+	<link href="https://nyubachi.github.io/blog/atom.xml" rel="self" type="application/atom+xml"/>
+	<link href="https://nyubachi.github.io/blog/"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2020-07-10T00:00:00+00:00</updated>
+	<id>https://nyubachi.github.io/blog/atom.xml</id>
+	<entry xml:lang="ja">
+		<title>コードテスト</title>
+		<published>2020-07-10T00:00:00+00:00</published>
+		<updated>2020-07-10T00:00:00+00:00</updated>
+		<link href="https://nyubachi.github.io/blog/codetest/"/>
+		<link rel="alternate" href="https://nyubachi.github.io/blog/codetest/" type="text/html"/>
+		<id>https://nyubachi.github.io/blog/codetest/</id>
+		<content type="html">&lt;pre style=&quot;background-color:#fdf6e3;&quot;&gt;
+&lt;code&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;hoge &amp;lt;- &lt;&#x2F;span&gt;&lt;span style=&quot;color:#6c71c4;&quot;&gt;65&lt;&#x2F;span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;
+ccc &amp;lt;- hoge * &lt;&#x2F;span&gt;&lt;span style=&quot;color:#6c71c4;&quot;&gt;3&lt;&#x2F;span&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;
+ccc
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;&lt;pre style=&quot;background-color:#fdf6e3;&quot;&gt;
+&lt;code&gt;&lt;span style=&quot;color:#657b83;&quot;&gt;[1] 195
+&lt;&#x2F;span&gt;&lt;&#x2F;code&gt;&lt;&#x2F;pre&gt;</content>
+	</entry>
+	<entry xml:lang="ja">
+		<title>ほげ</title>
+		<published>2020-07-09T00:00:00+00:00</published>
+		<updated>2020-07-09T00:00:00+00:00</updated>
+		<link href="https://nyubachi.github.io/blog/hoge/"/>
+		<link rel="alternate" href="https://nyubachi.github.io/blog/hoge/" type="text/html"/>
+		<id>https://nyubachi.github.io/blog/hoge/</id>
+		<content type="html">&lt;p&gt;ほげですよ。&lt;br &#x2F;&gt;
+開業&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;tesutojian-chu-si&quot;&gt;テスト見出し&lt;a class=&quot;zola-anchor&quot; href=&quot;#tesutojian-chu-si&quot; aria-label=&quot;Anchor link for: tesutojian-chu-si&quot;&gt;🔗&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;sdfasdfa&lt;&#x2F;li&gt;
+&lt;li&gt;asfdasdfa&lt;&#x2F;li&gt;
+&lt;li&gt;ほげ&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="ja">
+		<title>ホゲ2テストp</title>
+		<published>2020-06-06T00:00:00+00:00</published>
+		<updated>2020-06-06T00:00:00+00:00</updated>
+		<link href="https://nyubachi.github.io/blog/hoge2/"/>
+		<link rel="alternate" href="https://nyubachi.github.io/blog/hoge2/" type="text/html"/>
+		<id>https://nyubachi.github.io/blog/hoge2/</id>
+		<content type="html">&lt;p&gt;ｄふぁｓｄふぁｓｄふぁｓｄふぁ。&lt;br &#x2F;&gt;
+sdfasdfasdfasdf&lt;br &#x2F;&gt;
+あｓｄふぁｓｄふぁｓｄふぁｓｄ。&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="ja">
+		<title>About</title>
+		<published>2020-06-01T00:00:00+00:00</published>
+		<updated>2020-06-01T00:00:00+00:00</updated>
+		<link href="https://nyubachi.github.io/blog/about/"/>
+		<link rel="alternate" href="https://nyubachi.github.io/blog/about/" type="text/html"/>
+		<id>https://nyubachi.github.io/blog/about/</id>
+		<content type="html">&lt;p&gt;Hello, World!
+dsdd&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

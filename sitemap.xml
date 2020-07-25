@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://nyubachi.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://nyubachi.github.io/blog/about/</loc>
+        <lastmod>2020-06-01</lastmod>
+    </url>
+    <url>
+        <loc>https://nyubachi.github.io/blog/codetest/</loc>
+        <lastmod>2020-07-10</lastmod>
+    </url>
+    <url>
+        <loc>https://nyubachi.github.io/blog/hoge/</loc>
+        <lastmod>2020-07-09</lastmod>
+    </url>
+    <url>
+        <loc>https://nyubachi.github.io/blog/hoge2/</loc>
+        <lastmod>2020-06-06</lastmod>
+    </url>
+    <url>
+        <loc>https://nyubachi.github.io/blog/page/1/</loc>
+    </url>
+</urlset>
